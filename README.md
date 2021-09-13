@@ -4,7 +4,7 @@
 
 ## Welcome to my GitHub profile
 
-I´m a 🖥️ computer science student 📍 from near Düsseldorf.
+I´m a 🖥️ computer science student 📍 near Düsseldorf.
 
 ---
 
