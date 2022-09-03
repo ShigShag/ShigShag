@@ -1,7 +1,5 @@
 # Shig Shag
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShigShag&show_icons=true&theme=radical)
-
 ## Welcome to my GitHub profile
 
 I´m a 🖥️ computer science student 📍 near Düsseldorf.
