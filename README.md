@@ -1,13 +1,13 @@
-# Shig Shag
+# ShigShag
 
-## Welcome to my GitHub profile
+## 👋 Welcome to my GitHub Profile
 
-I´m a 🖥️ cyber security student 📍 near Düsseldorf.
+I'm a programmer and red teamer specializing in malware development and offensive security.
+
+🔗 Feel free to check out my [**website**](https://shigshag.com):  
 
 ---
 
-My favorite programming languages are:
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShigShag&layout=compact&hide_border=true&theme=tokyonight" height="150"/>
+</p>
